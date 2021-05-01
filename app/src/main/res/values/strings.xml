@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PetsApp</string>
+    <string name="retry">Retry</string>
+    <string name="error_load">Results could not be loaded</string>
+    <string name="error_notfound">No results found for this query</string>
+    <string name="results_could_not_be_loaded">error_load</string>
+    <string name="search">Search</string>
+</resources>

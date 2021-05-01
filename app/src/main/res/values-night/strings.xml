@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_load">Results could not be loaded</string>
+    <string name="retry">Retry</string>
+    <string name="results_could_not_be_loaded">error_load</string>
+</resources>
